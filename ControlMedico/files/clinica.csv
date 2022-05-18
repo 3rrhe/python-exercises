@@ -1,0 +1,6 @@
+carnet,nombre,fechavisita,telefono,correo,enfermedad,medicina,temperatura,presion,recomendacion,seguimiento
+22001,Juan Perez,18/04/2022,55556666,jp@hotmail.com,dolor abdominal,NINGUNA,38,110/90,reposo,0
+19075,Maria Gonzalez,15/03/2022,44443333,mg@gmail.com,dolor cabeza,aspirina,37.5,110/70,reposo,3
+22090,Jose Garcia,12/2/2022,33332222,jg@yahoo.com,diarrea,peptobismol,37,120/80,dieta blanda,0
+2345,Hafid Roca,27/0/2022,23456787,r@r.com,Dolor de cabeza,Panadol,38.0,110/90,Reposar,2
+1234,Juan Juanes,27/04/2022,90897867,r@r.com,Chorrio,Nada,35.0,110/90,Comer cosas blandas,3
