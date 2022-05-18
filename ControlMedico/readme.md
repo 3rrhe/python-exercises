@@ -37,3 +37,5 @@ Además, se desean conocer algunos reportes basicos como:
 
 Debe notar que al salir del programa el archivo debe estar actualizado con todas las modificaciones realizadas durente
 la ejecución y recuerde separar las operaciones del programa en funciones y/o modulos.
+
+NOTA: El archivo clinica.csv se encuentra en la carpeta /files, misma carpeta donde se generar los reportes en formato .csv
